@@ -1,0 +1,6 @@
+U:\Slam2\ConnexionBDD\ConnexionBDD\bin\Debug\ConnexionBDD.exe
+U:\Slam2\ConnexionBDD\ConnexionBDD\bin\Debug\ConnexionBDD.pdb
+U:\Slam2\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.exe
+U:\Slam2\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.pdb
+U:\INFO Première année\Slam2\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.exe
+U:\INFO Première année\Slam2\ConnexionBDD\ConnexionBDD\obj\x86\Debug\ConnexionBDD.pdb
